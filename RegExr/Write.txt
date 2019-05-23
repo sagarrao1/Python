@@ -1,0 +1,293 @@
+ERROR
+2016-12-20 13:16:52.569 SfB[417:1af74bc40] ERROR UI SFBConfiguration.m:152 Unable to set the application type on client profile: E_ActionNotAvailable (E3-8-1)
+2016-12-20 13:16:52.569 SfB[417:1af74bc40] ERROR UI SFBConfiguration.m:162 Unable to set OAuth enabled flag: E_ActionNotAvailable (E3-8-1)
+2016-12-20 13:16:52.624 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:16:52.625 SfB[417:1af74bc40] ERROR APPLICATION CUcmpBaseAppSharingModality.cpp:161 getDesktopSize() m_primaryAppSharingChannel is nullptr
+2016-12-20 13:16:52.626 SfB[417:1af74bc40] ERROR UI SFBConversation.m:1105 Unable to invoke action send message. Error: E_NotAvailableOffline (E0-0-5)
+2016-12-20 13:16:52.627 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:16:52.818 SfB[417:1af74bc40] ERROR UI SFBPushNotificationSubscriber.m:62 User is not signed in. Unable to subscribe for UCWA push notifications.
+2016-12-20 13:16:52.848 SfB[417:1af74bc40] ERROR UI SFBConversation.m:1105 Unable to invoke action send message. Error: E_NotAvailableOffline (E0-0-5)
+2016-12-20 13:16:52.848 SfB[417:1af74bc40] ERROR UI SFBConversation.m:1105 Unable to invoke action send message. Error: E_NotAvailableOffline (E0-0-5)
+2016-12-20 13:16:52.850 SfB[417:1af74bc40] ERROR APPLICATION CUcwaAutoDiscoveryGetUserUrlOperation.cpp:339 Request failed.  Error - E_ConnectionError (E2-2-1)
+2016-12-20 13:16:53.281 SfB[417:1af74bc40] ERROR UI SFBPushNotificationSubscriber.m:72 Unable to subscribe for push notifications. Server side does not support APNS.
+2016-12-20 13:16:53.287 SfB[417:1af74bc40] ERROR UI SFBPushNotificationSubscriber.m:72 Unable to subscribe for push notifications. Server side does not support APNS.
+2016-12-20 13:17:26.790 SfB[417:1af74bc40] ERROR UTILITIES CDnsLookup.cpp:271 DnsQuery error (0xfffeffee) for _autodiscover._tcp.tdl.lv. 
+2016-12-20 13:28:35.675 SfB[417:1af74bc40] ERROR UI SFBPushNotificationSubscriber.m:105 Unable to unsubscribe for push notifications. Server side does not support APNS.
+2016-12-20 13:28:45.124 SfB[417:1af74bc40] ERROR UI SFBPushNotificationSubscriber.m:72 Unable to subscribe for push notifications. Server side does not support APNS.
+2016-12-20 13:32:37.302 SfB[417:1af74bc40] ERROR UTILITIES CDnsLookup.cpp:271 DnsQuery error (0xfffeffee) for _autodiscover._tcp.tdl.lv. 
+2016-12-20 13:32:47.161 SfB[417:1af74bc40] ERROR UI SFBPushNotificationSubscriber.m:105 Unable to unsubscribe for push notifications. Server side does not support APNS.
+2016-12-20 13:32:50.974 SfB[417:1af74bc40] ERROR UI SFBPushNotificationSubscriber.m:72 Unable to subscribe for push notifications. Server side does not support APNS.
+2016-12-20 13:35:53.792 SfB[417:1af74bc40] ERROR UI SFBPushNotificationSubscriber.m:105 Unable to unsubscribe for push notifications. Server side does not support APNS.
+2016-12-20 13:37:52.956 SfB[417:1af74bc40] ERROR UI SFBPushNotificationSubscriber.m:72 Unable to subscribe for push notifications. Server side does not support APNS.
+2016-12-20 13:38:34.859 SfB[417:1af74bc40] ERROR UI SFBPushNotificationSubscriber.m:105 Unable to unsubscribe for push notifications. Server side does not support APNS.
+2016-12-20 13:40:09.499 SfB[417:1af74bc40] ERROR APPLICATION CUcmpConversation.cpp:1326 Unable to terminate conversation with error (E_ActionNotAvailable (E3-8-1))
+2016-12-20 13:40:15.844 SfB[417:1af74bc40] ERROR APPLICATION CUcwaAutoDiscoveryGetUserUrlOperation.cpp:339 Request failed.  Error - E_ConnectionError (E2-2-1)
+2016-12-20 13:40:16.471 SfB[417:1af74bc40] ERROR TRANSPORT CAuthenticationResolver.cpp:450 Failing the original request as we weren't able to get the token
+2016-12-20 13:40:16.477 SfB[417:1af74bc40] ERROR APPLICATION CUcwaAppSession.cpp:2324 Auto-discovery failed, aborting sign-in!
+2016-12-20 13:40:25.515 SfB[417:1af74bc40] ERROR APPLICATION CUcwaAutoDiscoveryGetUserUrlOperation.cpp:339 Request failed.  Error - E_ConnectionError (E2-2-1)
+2016-12-20 13:40:26.608 SfB[417:1af74bc40] ERROR TRANSPORT CUcwaSession.cpp:472 Relative url(/ucwa/v1/applications/211813023115/people/roberts2@tdl.lv) doesn't match app instance relative url(/ucwa/v1/applications/21824585912). Patched url (/ucwa/v1/applications/21824585912/people/roberts2@tdl.lv)
+2016-12-20 13:40:26.610 SfB[417:1af74bc40] ERROR TRANSPORT CUcwaSession.cpp:472 Relative url(/ucwa/v1/applications/211813023115/people/testuser2@tdl.lv) doesn't match app instance relative url(/ucwa/v1/applications/21824585912). Patched url (/ucwa/v1/applications/21824585912/people/testuser2@tdl.lv)
+2016-12-20 13:40:26.646 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.647 SfB[417:1af74bc40] ERROR APPLICATION CUcmpBaseAppSharingModality.cpp:161 getDesktopSize() m_primaryAppSharingChannel is nullptr
+2016-12-20 13:40:26.647 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.650 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.651 SfB[417:1af74bc40] ERROR APPLICATION CUcmpBaseAppSharingModality.cpp:161 getDesktopSize() m_primaryAppSharingChannel is nullptr
+2016-12-20 13:40:26.652 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.654 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.654 SfB[417:1af74bc40] ERROR APPLICATION CUcmpBaseAppSharingModality.cpp:161 getDesktopSize() m_primaryAppSharingChannel is nullptr
+2016-12-20 13:40:26.655 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.657 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.657 SfB[417:1af74bc40] ERROR APPLICATION CUcmpBaseAppSharingModality.cpp:161 getDesktopSize() m_primaryAppSharingChannel is nullptr
+2016-12-20 13:40:26.658 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.660 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.660 SfB[417:1af74bc40] ERROR APPLICATION CUcmpBaseAppSharingModality.cpp:161 getDesktopSize() m_primaryAppSharingChannel is nullptr
+2016-12-20 13:40:26.661 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.662 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.663 SfB[417:1af74bc40] ERROR APPLICATION CUcmpBaseAppSharingModality.cpp:161 getDesktopSize() m_primaryAppSharingChannel is nullptr
+2016-12-20 13:40:26.667 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.668 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.668 SfB[417:1af74bc40] ERROR APPLICATION CUcmpBaseAppSharingModality.cpp:161 getDesktopSize() m_primaryAppSharingChannel is nullptr
+2016-12-20 13:40:26.669 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.671 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.672 SfB[417:1af74bc40] ERROR APPLICATION CUcmpBaseAppSharingModality.cpp:161 getDesktopSize() m_primaryAppSharingChannel is nullptr
+2016-12-20 13:40:26.672 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.674 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.674 SfB[417:1af74bc40] ERROR APPLICATION CUcmpBaseAppSharingModality.cpp:161 getDesktopSize() m_primaryAppSharingChannel is nullptr
+2016-12-20 13:40:26.675 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.676 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.677 SfB[417:1af74bc40] ERROR APPLICATION CUcmpBaseAppSharingModality.cpp:161 getDesktopSize() m_primaryAppSharingChannel is nullptr
+2016-12-20 13:40:26.678 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.679 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.679 SfB[417:1af74bc40] ERROR APPLICATION CUcmpBaseAppSharingModality.cpp:161 getDesktopSize() m_primaryAppSharingChannel is nullptr
+2016-12-20 13:40:26.680 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.681 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.682 SfB[417:1af74bc40] ERROR APPLICATION CUcmpBaseAppSharingModality.cpp:161 getDesktopSize() m_primaryAppSharingChannel is nullptr
+2016-12-20 13:40:26.682 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.684 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.684 SfB[417:1af74bc40] ERROR APPLICATION CUcmpBaseAppSharingModality.cpp:161 getDesktopSize() m_primaryAppSharingChannel is nullptr
+2016-12-20 13:40:26.685 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.686 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.687 SfB[417:1af74bc40] ERROR APPLICATION CUcmpBaseAppSharingModality.cpp:161 getDesktopSize() m_primaryAppSharingChannel is nullptr
+2016-12-20 13:40:26.688 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.689 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.689 SfB[417:1af74bc40] ERROR APPLICATION CUcmpBaseAppSharingModality.cpp:161 getDesktopSize() m_primaryAppSharingChannel is nullptr
+2016-12-20 13:40:26.690 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.691 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.692 SfB[417:1af74bc40] ERROR APPLICATION CUcmpBaseAppSharingModality.cpp:161 getDesktopSize() m_primaryAppSharingChannel is nullptr
+2016-12-20 13:40:26.692 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.695 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.695 SfB[417:1af74bc40] ERROR APPLICATION CUcmpBaseAppSharingModality.cpp:161 getDesktopSize() m_primaryAppSharingChannel is nullptr
+2016-12-20 13:40:26.696 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.697 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.697 SfB[417:1af74bc40] ERROR APPLICATION CUcmpBaseAppSharingModality.cpp:161 getDesktopSize() m_primaryAppSharingChannel is nullptr
+2016-12-20 13:40:26.708 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.710 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.710 SfB[417:1af74bc40] ERROR APPLICATION CUcmpBaseAppSharingModality.cpp:161 getDesktopSize() m_primaryAppSharingChannel is nullptr
+2016-12-20 13:40:26.711 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.713 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.713 SfB[417:1af74bc40] ERROR APPLICATION CUcmpBaseAppSharingModality.cpp:161 getDesktopSize() m_primaryAppSharingChannel is nullptr
+2016-12-20 13:40:26.713 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.715 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.716 SfB[417:1af74bc40] ERROR APPLICATION CUcmpBaseAppSharingModality.cpp:161 getDesktopSize() m_primaryAppSharingChannel is nullptr
+2016-12-20 13:40:26.716 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.718 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.719 SfB[417:1af74bc40] ERROR APPLICATION CUcmpBaseAppSharingModality.cpp:161 getDesktopSize() m_primaryAppSharingChannel is nullptr
+2016-12-20 13:40:26.719 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.721 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.739 SfB[417:1af74bc40] ERROR APPLICATION CUcmpBaseAppSharingModality.cpp:161 getDesktopSize() m_primaryAppSharingChannel is nullptr
+2016-12-20 13:40:26.740 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.741 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.742 SfB[417:1af74bc40] ERROR APPLICATION CUcmpBaseAppSharingModality.cpp:161 getDesktopSize() m_primaryAppSharingChannel is nullptr
+2016-12-20 13:40:26.743 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.744 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.744 SfB[417:1af74bc40] ERROR APPLICATION CUcmpBaseAppSharingModality.cpp:161 getDesktopSize() m_primaryAppSharingChannel is nullptr
+2016-12-20 13:40:26.745 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.746 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.747 SfB[417:1af74bc40] ERROR APPLICATION CUcmpBaseAppSharingModality.cpp:161 getDesktopSize() m_primaryAppSharingChannel is nullptr
+2016-12-20 13:40:26.747 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.748 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.749 SfB[417:1af74bc40] ERROR APPLICATION CUcmpBaseAppSharingModality.cpp:161 getDesktopSize() m_primaryAppSharingChannel is nullptr
+2016-12-20 13:40:26.750 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.752 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.752 SfB[417:1af74bc40] ERROR APPLICATION CUcmpBaseAppSharingModality.cpp:161 getDesktopSize() m_primaryAppSharingChannel is nullptr
+2016-12-20 13:40:26.753 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.755 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.755 SfB[417:1af74bc40] ERROR APPLICATION CUcmpBaseAppSharingModality.cpp:161 getDesktopSize() m_primaryAppSharingChannel is nullptr
+2016-12-20 13:40:26.756 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.758 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.758 SfB[417:1af74bc40] ERROR APPLICATION CUcmpBaseAppSharingModality.cpp:161 getDesktopSize() m_primaryAppSharingChannel is nullptr
+2016-12-20 13:40:26.759 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.761 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.761 SfB[417:1af74bc40] ERROR APPLICATION CUcmpBaseAppSharingModality.cpp:161 getDesktopSize() m_primaryAppSharingChannel is nullptr
+2016-12-20 13:40:26.762 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.764 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.764 SfB[417:1af74bc40] ERROR APPLICATION CUcmpBaseAppSharingModality.cpp:161 getDesktopSize() m_primaryAppSharingChannel is nullptr
+2016-12-20 13:40:26.765 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.767 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.767 SfB[417:1af74bc40] ERROR APPLICATION CUcmpBaseAppSharingModality.cpp:161 getDesktopSize() m_primaryAppSharingChannel is nullptr
+2016-12-20 13:40:26.768 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.769 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.769 SfB[417:1af74bc40] ERROR APPLICATION CUcmpBaseAppSharingModality.cpp:161 getDesktopSize() m_primaryAppSharingChannel is nullptr
+2016-12-20 13:40:26.775 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.777 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.778 SfB[417:1af74bc40] ERROR APPLICATION CUcmpBaseAppSharingModality.cpp:161 getDesktopSize() m_primaryAppSharingChannel is nullptr
+2016-12-20 13:40:26.779 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.781 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.781 SfB[417:1af74bc40] ERROR APPLICATION CUcmpBaseAppSharingModality.cpp:161 getDesktopSize() m_primaryAppSharingChannel is nullptr
+2016-12-20 13:40:26.782 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.783 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.784 SfB[417:1af74bc40] ERROR APPLICATION CUcmpBaseAppSharingModality.cpp:161 getDesktopSize() m_primaryAppSharingChannel is nullptr
+2016-12-20 13:40:26.785 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.787 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.787 SfB[417:1af74bc40] ERROR APPLICATION CUcmpBaseAppSharingModality.cpp:161 getDesktopSize() m_primaryAppSharingChannel is nullptr
+2016-12-20 13:40:26.788 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.789 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.790 SfB[417:1af74bc40] ERROR APPLICATION CUcmpBaseAppSharingModality.cpp:161 getDesktopSize() m_primaryAppSharingChannel is nullptr
+2016-12-20 13:40:26.790 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.792 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.793 SfB[417:1af74bc40] ERROR APPLICATION CUcmpBaseAppSharingModality.cpp:161 getDesktopSize() m_primaryAppSharingChannel is nullptr
+2016-12-20 13:40:26.794 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.796 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.796 SfB[417:1af74bc40] ERROR APPLICATION CUcmpBaseAppSharingModality.cpp:161 getDesktopSize() m_primaryAppSharingChannel is nullptr
+2016-12-20 13:40:26.797 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.799 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.799 SfB[417:1af74bc40] ERROR APPLICATION CUcmpBaseAppSharingModality.cpp:161 getDesktopSize() m_primaryAppSharingChannel is nullptr
+2016-12-20 13:40:26.800 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.801 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.802 SfB[417:1af74bc40] ERROR APPLICATION CUcmpBaseAppSharingModality.cpp:161 getDesktopSize() m_primaryAppSharingChannel is nullptr
+2016-12-20 13:40:26.802 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.804 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.804 SfB[417:1af74bc40] ERROR APPLICATION CUcmpBaseAppSharingModality.cpp:161 getDesktopSize() m_primaryAppSharingChannel is nullptr
+2016-12-20 13:40:26.805 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.807 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.807 SfB[417:1af74bc40] ERROR APPLICATION CUcmpBaseAppSharingModality.cpp:161 getDesktopSize() m_primaryAppSharingChannel is nullptr
+2016-12-20 13:40:26.808 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.810 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.811 SfB[417:1af74bc40] ERROR APPLICATION CUcmpBaseAppSharingModality.cpp:161 getDesktopSize() m_primaryAppSharingChannel is nullptr
+2016-12-20 13:40:26.812 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.813 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.814 SfB[417:1af74bc40] ERROR APPLICATION CUcmpBaseAppSharingModality.cpp:161 getDesktopSize() m_primaryAppSharingChannel is nullptr
+2016-12-20 13:40:26.814 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.816 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.816 SfB[417:1af74bc40] ERROR APPLICATION CUcmpBaseAppSharingModality.cpp:161 getDesktopSize() m_primaryAppSharingChannel is nullptr
+2016-12-20 13:40:26.817 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.818 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.819 SfB[417:1af74bc40] ERROR APPLICATION CUcmpBaseAppSharingModality.cpp:161 getDesktopSize() m_primaryAppSharingChannel is nullptr
+2016-12-20 13:40:26.819 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.821 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.821 SfB[417:1af74bc40] ERROR APPLICATION CUcmpBaseAppSharingModality.cpp:161 getDesktopSize() m_primaryAppSharingChannel is nullptr
+2016-12-20 13:40:26.822 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.824 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.824 SfB[417:1af74bc40] ERROR APPLICATION CUcmpBaseAppSharingModality.cpp:161 getDesktopSize() m_primaryAppSharingChannel is nullptr
+2016-12-20 13:40:26.825 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.827 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.828 SfB[417:1af74bc40] ERROR APPLICATION CUcmpBaseAppSharingModality.cpp:161 getDesktopSize() m_primaryAppSharingChannel is nullptr
+2016-12-20 13:40:26.829 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:40:26.846 SfB[417:1af74bc40] ERROR UI SFBPushNotificationSubscriber.m:72 Unable to subscribe for push notifications. Server side does not support APNS.
+2016-12-20 13:40:26.847 SfB[417:1af74bc40] ERROR UTILITIES CDnsLookup.cpp:271 DnsQuery error (0xfffeffee) for _autodiscover._tcp.tdl.lv. 
+2016-12-20 13:40:26.855 SfB[417:1af74bc40] ERROR UI SFBPushNotificationSubscriber.m:72 Unable to subscribe for push notifications. Server side does not support APNS.
+2016-12-20 13:40:26.895 SfB[417:1af74bc40] ERROR UI SFBPushNotificationSubscriber.m:72 Unable to subscribe for push notifications. Server side does not support APNS.
+2016-12-20 13:44:22.975 SfB[417:1af74bc40] ERROR APPLICATION CUcmpConversation.cpp:1326 Unable to terminate conversation with error (E_ActionNotAvailable (E3-8-1))
+2016-12-20 13:44:23.021 SfB[417:1af74bc40] ERROR APPLICATION CUcmpConversation.cpp:1326 Unable to terminate conversation with error (E_ActionNotAvailable (E3-8-1))
+2016-12-20 13:44:23.045 SfB[417:1af74bc40] ERROR APPLICATION CUcmpConversation.cpp:1326 Unable to terminate conversation with error (E_ActionNotAvailable (E3-8-1))
+2016-12-20 13:44:23.067 SfB[417:1af74bc40] ERROR APPLICATION CUcmpConversation.cpp:1326 Unable to terminate conversation with error (E_ActionNotAvailable (E3-8-1))
+2016-12-20 13:44:23.087 SfB[417:1af74bc40] ERROR APPLICATION CUcmpConversation.cpp:1326 Unable to terminate conversation with error (E_ActionNotAvailable (E3-8-1))
+2016-12-20 13:44:23.106 SfB[417:1af74bc40] ERROR APPLICATION CUcmpConversation.cpp:1326 Unable to terminate conversation with error (E_ActionNotAvailable (E3-8-1))
+2016-12-20 13:44:23.746 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:44:23.746 SfB[417:1af74bc40] ERROR APPLICATION CUcmpBaseAppSharingModality.cpp:161 getDesktopSize() m_primaryAppSharingChannel is nullptr
+2016-12-20 13:44:23.747 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:44:36.128 SfB[417:1af74bc40] ERROR UI SFBPushNotificationSubscriber.m:105 Unable to unsubscribe for push notifications. Server side does not support APNS.
+2016-12-20 13:44:45.957 SfB[417:1af74bc40] ERROR APPLICATION CUcmpConversation.cpp:1326 Unable to terminate conversation with error (E_ActionNotAvailable (E3-8-1))
+2016-12-20 13:44:45.958 SfB[417:1af74bc40] ERROR APPLICATION CUcmpConversation.cpp:1326 Unable to terminate conversation with error (E_ActionNotAvailable (E3-8-1))
+2016-12-20 13:44:45.958 SfB[417:1af74bc40] ERROR APPLICATION CUcmpConversation.cpp:1326 Unable to terminate conversation with error (E_ActionNotAvailable (E3-8-1))
+2016-12-20 13:44:45.959 SfB[417:1af74bc40] ERROR APPLICATION CUcmpConversation.cpp:1326 Unable to terminate conversation with error (E_ActionNotAvailable (E3-8-1))
+2016-12-20 13:44:45.959 SfB[417:1af74bc40] ERROR APPLICATION CUcmpConversation.cpp:1326 Unable to terminate conversation with error (E_ActionNotAvailable (E3-8-1))
+2016-12-20 13:44:45.960 SfB[417:1af74bc40] ERROR APPLICATION CUcmpConversation.cpp:1326 Unable to terminate conversation with error (E_ActionNotAvailable (E3-8-1))
+2016-12-20 13:44:45.960 SfB[417:1af74bc40] ERROR APPLICATION CUcmpConversation.cpp:1326 Unable to terminate conversation with error (E_ActionNotAvailable (E3-8-1))
+2016-12-20 13:44:45.961 SfB[417:1af74bc40] ERROR APPLICATION CUcmpConversation.cpp:1326 Unable to terminate conversation with error (E_ActionNotAvailable (E3-8-1))
+2016-12-20 13:44:45.961 SfB[417:1af74bc40] ERROR APPLICATION CUcmpConversation.cpp:1326 Unable to terminate conversation with error (E_ActionNotAvailable (E3-8-1))
+2016-12-20 13:44:45.962 SfB[417:1af74bc40] ERROR APPLICATION CUcmpConversation.cpp:1326 Unable to terminate conversation with error (E_ActionNotAvailable (E3-8-1))
+2016-12-20 13:44:45.962 SfB[417:1af74bc40] ERROR APPLICATION CUcmpConversation.cpp:1326 Unable to terminate conversation with error (E_ActionNotAvailable (E3-8-1))
+2016-12-20 13:44:45.963 SfB[417:1af74bc40] ERROR APPLICATION CUcmpConversation.cpp:1326 Unable to terminate conversation with error (E_ActionNotAvailable (E3-8-1))
+2016-12-20 13:44:45.963 SfB[417:1af74bc40] ERROR APPLICATION CUcmpConversation.cpp:1326 Unable to terminate conversation with error (E_ActionNotAvailable (E3-8-1))
+2016-12-20 13:44:45.963 SfB[417:1af74bc40] ERROR APPLICATION CUcmpConversation.cpp:1326 Unable to terminate conversation with error (E_ActionNotAvailable (E3-8-1))
+2016-12-20 13:44:45.964 SfB[417:1af74bc40] ERROR APPLICATION CUcmpConversation.cpp:1326 Unable to terminate conversation with error (E_ActionNotAvailable (E3-8-1))
+2016-12-20 13:44:45.964 SfB[417:1af74bc40] ERROR APPLICATION CUcmpConversation.cpp:1326 Unable to terminate conversation with error (E_ActionNotAvailable (E3-8-1))
+2016-12-20 13:44:45.965 SfB[417:1af74bc40] ERROR APPLICATION CUcmpConversation.cpp:1326 Unable to terminate conversation with error (E_ActionNotAvailable (E3-8-1))
+2016-12-20 13:44:45.965 SfB[417:1af74bc40] ERROR APPLICATION CUcmpConversation.cpp:1326 Unable to terminate conversation with error (E_ActionNotAvailable (E3-8-1))
+2016-12-20 13:44:45.966 SfB[417:1af74bc40] ERROR APPLICATION CUcmpConversation.cpp:1326 Unable to terminate conversation with error (E_ActionNotAvailable (E3-8-1))
+2016-12-20 13:44:45.966 SfB[417:1af74bc40] ERROR APPLICATION CUcmpConversation.cpp:1326 Unable to terminate conversation with error (E_ActionNotAvailable (E3-8-1))
+2016-12-20 13:44:45.966 SfB[417:1af74bc40] ERROR APPLICATION CUcmpConversation.cpp:1326 Unable to terminate conversation with error (E_ActionNotAvailable (E3-8-1))
+2016-12-20 13:44:45.967 SfB[417:1af74bc40] ERROR APPLICATION CUcmpConversation.cpp:1326 Unable to terminate conversation with error (E_ActionNotAvailable (E3-8-1))
+2016-12-20 13:44:45.967 SfB[417:1af74bc40] ERROR APPLICATION CUcmpConversation.cpp:1326 Unable to terminate conversation with error (E_ActionNotAvailable (E3-8-1))
+2016-12-20 13:44:45.968 SfB[417:1af74bc40] ERROR APPLICATION CUcmpConversation.cpp:1326 Unable to terminate conversation with error (E_ActionNotAvailable (E3-8-1))
+2016-12-20 13:44:45.968 SfB[417:1af74bc40] ERROR APPLICATION CUcmpConversation.cpp:1326 Unable to terminate conversation with error (E_ActionNotAvailable (E3-8-1))
+2016-12-20 13:44:45.969 SfB[417:1af74bc40] ERROR APPLICATION CUcmpConversation.cpp:1326 Unable to terminate conversation with error (E_ActionNotAvailable (E3-8-1))
+2016-12-20 13:44:45.969 SfB[417:1af74bc40] ERROR APPLICATION CUcmpConversation.cpp:1326 Unable to terminate conversation with error (E_ActionNotAvailable (E3-8-1))
+2016-12-20 13:44:45.969 SfB[417:1af74bc40] ERROR APPLICATION CUcmpConversation.cpp:1326 Unable to terminate conversation with error (E_ActionNotAvailable (E3-8-1))
+2016-12-20 13:44:45.970 SfB[417:1af74bc40] ERROR APPLICATION CUcmpConversation.cpp:1326 Unable to terminate conversation with error (E_ActionNotAvailable (E3-8-1))
+2016-12-20 13:44:45.970 SfB[417:1af74bc40] ERROR APPLICATION CUcmpConversation.cpp:1326 Unable to terminate conversation with error (E_ActionNotAvailable (E3-8-1))
+2016-12-20 13:44:45.971 SfB[417:1af74bc40] ERROR APPLICATION CUcmpConversation.cpp:1326 Unable to terminate conversation with error (E_ActionNotAvailable (E3-8-1))
+2016-12-20 13:44:45.971 SfB[417:1af74bc40] ERROR APPLICATION CUcmpConversation.cpp:1326 Unable to terminate conversation with error (E_ActionNotAvailable (E3-8-1))
+2016-12-20 13:44:45.972 SfB[417:1af74bc40] ERROR APPLICATION CUcmpConversation.cpp:1326 Unable to terminate conversation with error (E_ActionNotAvailable (E3-8-1))
+2016-12-20 13:44:45.972 SfB[417:1af74bc40] ERROR APPLICATION CUcmpConversation.cpp:1326 Unable to terminate conversation with error (E_ActionNotAvailable (E3-8-1))
+2016-12-20 13:44:45.972 SfB[417:1af74bc40] ERROR APPLICATION CUcmpConversation.cpp:1326 Unable to terminate conversation with error (E_ActionNotAvailable (E3-8-1))
+2016-12-20 13:44:45.973 SfB[417:1af74bc40] ERROR APPLICATION CUcmpConversation.cpp:1326 Unable to terminate conversation with error (E_ActionNotAvailable (E3-8-1))
+2016-12-20 13:44:45.973 SfB[417:1af74bc40] ERROR APPLICATION CUcmpConversation.cpp:1326 Unable to terminate conversation with error (E_ActionNotAvailable (E3-8-1))
+2016-12-20 13:44:45.974 SfB[417:1af74bc40] ERROR APPLICATION CUcmpConversation.cpp:1326 Unable to terminate conversation with error (E_ActionNotAvailable (E3-8-1))
+2016-12-20 13:44:45.974 SfB[417:1af74bc40] ERROR APPLICATION CUcmpConversation.cpp:1326 Unable to terminate conversation with error (E_ActionNotAvailable (E3-8-1))
+2016-12-20 13:44:45.975 SfB[417:1af74bc40] ERROR APPLICATION CUcmpConversation.cpp:1326 Unable to terminate conversation with error (E_ActionNotAvailable (E3-8-1))
+2016-12-20 13:44:45.975 SfB[417:1af74bc40] ERROR APPLICATION CUcmpConversation.cpp:1326 Unable to terminate conversation with error (E_ActionNotAvailable (E3-8-1))
+2016-12-20 13:44:45.975 SfB[417:1af74bc40] ERROR APPLICATION CUcmpConversation.cpp:1326 Unable to terminate conversation with error (E_ActionNotAvailable (E3-8-1))
+2016-12-20 13:44:45.976 SfB[417:1af74bc40] ERROR APPLICATION CUcmpConversation.cpp:1326 Unable to terminate conversation with error (E_ActionNotAvailable (E3-8-1))
+2016-12-20 13:44:45.976 SfB[417:1af74bc40] ERROR APPLICATION CUcmpConversation.cpp:1326 Unable to terminate conversation with error (E_ActionNotAvailable (E3-8-1))
+2016-12-20 13:44:45.977 SfB[417:1af74bc40] ERROR APPLICATION CUcmpConversation.cpp:1326 Unable to terminate conversation with error (E_ActionNotAvailable (E3-8-1))
+2016-12-20 13:44:45.977 SfB[417:1af74bc40] ERROR APPLICATION CUcmpConversation.cpp:1326 Unable to terminate conversation with error (E_ActionNotAvailable (E3-8-1))
+2016-12-20 13:44:45.978 SfB[417:1af74bc40] ERROR APPLICATION CUcmpConversation.cpp:1326 Unable to terminate conversation with error (E_ActionNotAvailable (E3-8-1))
+2016-12-20 13:44:46.103 SfB[417:1af74bc40] ERROR APPLICATION CUcwaAutoDiscoveryGetUserUrlOperation.cpp:339 Request failed.  Error - E_ConnectionError (E2-2-1)
+2016-12-20 13:44:46.342 SfB[417:1af74bc40] ERROR TRANSPORT CAuthenticationResolver.cpp:450 Failing the original request as we weren't able to get the token
+2016-12-20 13:44:46.346 SfB[417:1af74bc40] ERROR APPLICATION CUcwaAppSession.cpp:2324 Auto-discovery failed, aborting sign-in!
+2016-12-20 13:44:56.599 SfB[417:1af74bc40] ERROR APPLICATION CUcwaAutoDiscoveryGetUserUrlOperation.cpp:339 Request failed.  Error - E_ConnectionError (E2-2-1)
+2016-12-20 13:44:56.862 SfB[417:1af74bc40] ERROR TRANSPORT CAuthenticationResolver.cpp:450 Failing the original request as we weren't able to get the token
+2016-12-20 13:44:56.868 SfB[417:1af74bc40] ERROR APPLICATION CUcwaAppSession.cpp:2324 Auto-discovery failed, aborting sign-in!
+2016-12-20 13:45:10.854 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:45:10.854 SfB[417:1af74bc40] ERROR APPLICATION CUcmpBaseAppSharingModality.cpp:161 getDesktopSize() m_primaryAppSharingChannel is nullptr
+2016-12-20 13:45:10.855 SfB[417:1af74bc40] ERROR UI SFBConversation.m:1105 Unable to invoke action send message. Error: E_NotAvailableOffline (E0-0-5)
+2016-12-20 13:45:10.855 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 13:45:10.857 SfB[417:1af74bc40] ERROR UI SFBPushNotificationSubscriber.m:62 User is not signed in. Unable to subscribe for UCWA push notifications.
+2016-12-20 13:45:10.859 SfB[417:1af74bc40] ERROR UTILITIES CDnsLookup.cpp:271 DnsQuery error (0xfffeffee) for _autodiscover._tcp.tdl.lv. 
+2016-12-20 13:45:11.472 SfB[417:1af74bc40] ERROR TRANSPORT CUcwaSession.cpp:472 Relative url(/ucwa/v1/applications/21824585912/people/rolands@tdl.lv) doesn't match app instance relative url(/ucwa/v1/applications/211813023115). Patched url (/ucwa/v1/applications/211813023115/people/rolands@tdl.lv)
+2016-12-20 13:45:11.484 SfB[417:1af74bc40] ERROR TRANSPORT CUcwaSession.cpp:472 Relative url(/ucwa/v1/applications/21824585912/people/roberts3@tdl.lv) doesn't match app instance relative url(/ucwa/v1/applications/211813023115). Patched url (/ucwa/v1/applications/211813023115/people/roberts3@tdl.lv)
+2016-12-20 13:45:11.486 SfB[417:1af74bc40] ERROR TRANSPORT CUcwaSession.cpp:472 Relative url(/ucwa/v1/applications/21824585912/people/roberts4@tdl.lv) doesn't match app instance relative url(/ucwa/v1/applications/211813023115). Patched url (/ucwa/v1/applications/211813023115/people/roberts4@tdl.lv)
+2016-12-20 13:45:11.487 SfB[417:1af74bc40] ERROR TRANSPORT CUcwaSession.cpp:472 Relative url(/ucwa/v1/applications/21824585912/people/v-rogrei@microsoft.com) doesn't match app instance relative url(/ucwa/v1/applications/211813023115). Patched url (/ucwa/v1/applications/211813023115/people/v-rogrei@microsoft.com)
+2016-12-20 13:45:11.489 SfB[417:1af74bc40] ERROR TRANSPORT CUcwaSession.cpp:472 Relative url(/ucwa/v1/applications/21824585912/people/unifiedaa@tdl.lv) doesn't match app instance relative url(/ucwa/v1/applications/211813023115). Patched url (/ucwa/v1/applications/211813023115/people/unifiedaa@tdl.lv)
+2016-12-20 13:45:11.490 SfB[417:1af74bc40] ERROR TRANSPORT CUcwaSession.cpp:472 Relative url(/ucwa/v1/applications/21824585912/people/remote@tdl.lv) doesn't match app instance relative url(/ucwa/v1/applications/211813023115). Patched url (/ucwa/v1/applications/211813023115/people/remote@tdl.lv)
+2016-12-20 13:45:11.491 SfB[417:1af74bc40] ERROR TRANSPORT CUcwaSession.cpp:472 Relative url(/ucwa/v1/applications/21824585912/people/sfsdf@sdfsdf.lv) doesn't match app instance relative url(/ucwa/v1/applications/211813023115). Patched url (/ucwa/v1/applications/211813023115/people/sfsdf@sdfsdf.lv)
+2016-12-20 13:45:11.492 SfB[417:1af74bc40] ERROR TRANSPORT CUcwaSession.cpp:472 Relative url(/ucwa/v1/applications/21824585912/people/test4@tdl.lv) doesn't match app instance relative url(/ucwa/v1/applications/211813023115). Patched url (/ucwa/v1/applications/211813023115/people/test4@tdl.lv)
+2016-12-20 13:45:11.494 SfB[417:1af74bc40] ERROR TRANSPORT CUcwaSession.cpp:472 Relative url(/ucwa/v1/applications/21824585912/people/test3@tdl.lv) doesn't match app instance relative url(/ucwa/v1/applications/211813023115). Patched url (/ucwa/v1/applications/211813023115/people/test3@tdl.lv)
+2016-12-20 13:45:11.495 SfB[417:1af74bc40] ERROR TRANSPORT CUcwaSession.cpp:472 Relative url(/ucwa/v1/applications/21824585912/people/dGVsOjI3NjQ5NzU2O3Bob25lLWNvbnRleHQ9ZGVmYXVsdHByb2ZpbGU1) doesn't match app instance relative url(/ucwa/v1/applications/211813023115). Patched url (/ucwa/v1/applications/211813023115/people/dGVsOjI3NjQ5NzU2O3Bob25lLWNvbnRleHQ9ZGVmYXVsdHByb2ZpbGU1)
+2016-12-20 13:45:11.496 SfB[417:1af74bc40] ERROR TRANSPORT CUcwaSession.cpp:472 Relative url(/ucwa/v1/applications/21824585912/people/testuser1@tdl.lv) doesn't match app instance relative url(/ucwa/v1/applications/211813023115). Patched url (/ucwa/v1/applications/211813023115/people/testuser1@tdl.lv)
+2016-12-20 13:45:11.497 SfB[417:1af74bc40] ERROR TRANSPORT CUcwaSession.cpp:472 Relative url(/ucwa/v1/applications/21824585912/people/rinalds1@tdl.lv) doesn't match app instance relative url(/ucwa/v1/applications/211813023115). Patched url (/ucwa/v1/applications/211813023115/people/rinalds1@tdl.lv)
+2016-12-20 13:45:11.498 SfB[417:1af74bc40] ERROR TRANSPORT CUcwaSession.cpp:472 Relative url(/ucwa/v1/applications/21824585912/people/roberts@tdl.lv) doesn't match app instance relative url(/ucwa/v1/applications/211813023115). Patched url (/ucwa/v1/applications/211813023115/people/roberts@tdl.lv)
+2016-12-20 13:45:11.500 SfB[417:1af74bc40] ERROR TRANSPORT CUcwaSession.cpp:472 Relative url(/ucwa/v1/applications/21824585912/people/unifiedsa@tdl.lv) doesn't match app instance relative url(/ucwa/v1/applications/211813023115). Patched url (/ucwa/v1/applications/211813023115/people/unifiedsa@tdl.lv)
+2016-12-20 13:45:11.501 SfB[417:1af74bc40] ERROR TRANSPORT CUcwaSession.cpp:472 Relative url(/ucwa/v1/applications/21824585912/people/c2lwOjIyMzY3NzY2QHRkbC5sdjt1c2VyPXBob25l0) doesn't match app instance relative url(/ucwa/v1/applications/211813023115). Patched url (/ucwa/v1/applications/211813023115/people/c2lwOjIyMzY3NzY2QHRkbC5sdjt1c2VyPXBob25l0)
+2016-12-20 13:45:11.502 SfB[417:1af74bc40] ERROR TRANSPORT CUcwaSession.cpp:472 Relative url(/ucwa/v1/applications/21824585912/people/testuser@tdl.lv) doesn't match app instance relative url(/ucwa/v1/applications/211813023115). Patched url (/ucwa/v1/applications/211813023115/people/testuser@tdl.lv)
+2016-12-20 13:45:11.503 SfB[417:1af74bc40] ERROR TRANSPORT CUcwaSession.cpp:472 Relative url(/ucwa/v1/applications/21824585912/people/ginta1@tdl.lv) doesn't match app instance relative url(/ucwa/v1/applications/211813023115). Patched url (/ucwa/v1/applications/211813023115/people/ginta1@tdl.lv)
+2016-12-20 13:45:11.504 SfB[417:1af74bc40] ERROR TRANSPORT CUcwaSession.cpp:472 Relative url(/ucwa/v1/applications/21824585912/people/c2lwOiszNzEyMjM2Nzc2NkB0ZGwubHY7dXNlcj1waG9uZQ2) doesn't match app instance relative url(/ucwa/v1/applications/211813023115). Patched url (/ucwa/v1/applications/211813023115/people/c2lwOiszNzEyMjM2Nzc2NkB0ZGwubHY7dXNlcj1waG9uZQ2)
+2016-12-20 13:45:11.555 SfB[417:1af74bc40] ERROR UI SFBPushNotificationSubscriber.m:72 Unable to subscribe for push notifications. Server side does not support APNS.
+2016-12-20 13:45:11.703 SfB[417:1af74bc40] ERROR UI SFBPushNotificationSubscriber.m:72 Unable to subscribe for push notifications. Server side does not support APNS.
+2016-12-20 13:55:03.174 SfB[417:1af74bc40] ERROR APPLICATION CUcwaAppSession.cpp:2184 Event channel error E_UcwaUnavailable (E2-3-48) in state 'OpenInProgress'
+2016-12-20 13:55:03.188 SfB[417:1af74bc40] ERROR UI SFBAlertMapper.mm:1111 SFBAlertTypeUnknown. Type:302 Severity:2 Layer:2 Component:3 Number:48
+2016-12-20 13:55:03.189 SfB[417:1af74bc40] ERROR UI SFBAlertMapper.mm:1111 SFBAlertTypeUnknown. Type:302 Severity:2 Layer:2 Component:3 Number:48
+2016-12-20 13:55:04.299 SfB[417:1af74bc40] ERROR UI SFBPushNotificationSubscriber.m:72 Unable to subscribe for push notifications. Server side does not support APNS.
+2016-12-20 13:55:04.304 SfB[417:1af74bc40] ERROR UI SFBAlertMapper.mm:1111 SFBAlertTypeUnknown. Type:302 Severity:2 Layer:2 Component:3 Number:48
+2016-12-20 13:59:49.881 SfB[417:1af74bc40] ERROR UTILITIES CDnsLookup.cpp:271 DnsQuery error (0xfffeffee) for _autodiscover._tcp.tdl.lv. 
+2016-12-20 13:59:52.316 SfB[417:1af74bc40] ERROR APPLICATION CEwsMailboxFolder.cpp:718 Sync operation failed.  Error = E_AuthError (E2-3-2)
+2016-12-20 14:00:09.382 SfB[417:1af74bc40] ERROR UTILITIES CDnsLookup.cpp:271 DnsQuery error (0xfffeffee) for _autodiscover._tcp.tdl.lv. 
+2016-12-20 14:00:11.304 SfB[417:1af74bc40] ERROR APPLICATION CEwsMailboxFolder.cpp:718 Sync operation failed.  Error = E_AuthError (E2-3-2)
+2016-12-20 14:00:23.553 SfB[417:1af74bc40] ERROR UTILITIES CDnsLookup.cpp:271 DnsQuery error (0xfffeffee) for _autodiscover._tcp.tdl.lv. 
+2016-12-20 14:01:59.532 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error S_OK (S0-0-0)
+2016-12-20 14:02:02.023 SfB[417:1af74bc40] ERROR UI SFBConversation.m:3166 Couldn't get VolumeMuteStatus. Error E_NotImplemented (E0-0-6)
+2016-12-20 14:02:02.024 SfB[417:1af74bc40] ERROR APPLICATION CUcmpBaseAppSharingModality.cpp:161 getDesktopSize() m_primaryAppSharingChannel is nullptr
+2016-12-20 14:02:02.057 SfB[417:1af74bc40] ERROR UTILITIES CActionChecker.hxx:105 allowed does not equal (reason == S_OK)!
+2016-12-20 14:02:04.152 SfB[417:1af74bc40] ERROR APPLICATION CEwsMailboxFolder.cpp:718 Sync operation failed.  Error = E_ConnectionTimeoutError (E2-2-5)
